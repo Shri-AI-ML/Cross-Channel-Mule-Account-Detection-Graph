@@ -442,5 +442,5 @@ For questions or feedback:
 
 ---
 
-**Last Updated:** February 2024  
+**Last Updated:** March 2026 
 **Version:** 1.0.0
