@@ -412,18 +412,9 @@ where ε = 0.1 (privacy budget)
 - Shrijal Goswami
 - Narendra Bishnoi
 
-**Academic Advisors:** [To be added]  
-**Industry Partners:** [To be added]
 
 ---
 
-## 📚 References
-
-### Academic Papers
-
-1. Hamilton, W., Ying, R., & Leskovec, J. (2017). *Inductive Representation Learning on Large Graphs*. NeurIPS.
-2. Velickovic, P., et al. (2018). *Graph Attention Networks*. ICLR.
-3. Li, Y., et al. (2020). *Temporal Graph Networks for Deep Learning on Dynamic Graphs*. ICML.
 
 ### Industry Standards
 
@@ -432,42 +423,24 @@ where ε = 0.1 (privacy budget)
 - **Basel AML Index** - Basel Institute on Governance
 - **GDPR Article 22** - Automated Decision Making
 
-### Technical Documentation
-
-- Neo4j Graph Database: https://neo4j.com/docs/
-- PyTorch Geometric: https://pytorch-geometric.readthedocs.io/
-- GraphSAGE Implementation: https://github.com/williamleif/GraphSAGE
-- Kafka Streams: https://kafka.apache.org/documentation/streams/
 
 ---
 
-## 📄 License
 
-This project and its accompanying documentation are proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
-
-**Copyright © 2024. All Rights Reserved.**
-
----
 
 ## 🤝 Contributing
 
-This is a research project. For collaboration inquiries, please contact the project team.
+This is a research project.
 
 ---
 
 ## 📞 Contact
 
-For questions, feedback, or collaboration opportunities:
+For questions or feedback:
 
-**Email:** [To be added]  
-**LinkedIn:** [To be added]  
-**Project Page:** [To be added]
+**Email:** tyagishubh.workspace@gmail.com  
 
 ---
-
-## ⚠️ Disclaimer
-
-This system is designed as a decision support tool for financial institutions. All high-risk alerts should be reviewed by trained analysts before taking action against customer accounts. The system does not replace human judgment in AML/CFT compliance processes.
 
 **Last Updated:** February 2024  
 **Version:** 1.0.0
