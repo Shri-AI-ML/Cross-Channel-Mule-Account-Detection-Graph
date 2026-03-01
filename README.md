@@ -374,7 +374,7 @@ where ε = 0.1 (privacy budget)
 
 ---
 
-## 🔮 Future Roadmap
+## 🔮 Future Roadmap (QUARTER-WISE)
 
 ### Q3 2026: Self-Healing Graphs
 - Automated pruning of stale edges (>90 days)
@@ -426,14 +426,6 @@ where ε = 0.1 (privacy budget)
 
 ---
 
-
-
-## 🤝 Contributing
-
-This is a research project.
-
----
-
 ## 📞 Contact
 
 For questions or feedback:
@@ -443,4 +435,5 @@ For questions or feedback:
 ---
 
 **Last Updated:** March 2026 
+
 **Version:** 1.0.0
