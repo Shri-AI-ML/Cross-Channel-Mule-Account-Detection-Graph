@@ -21,7 +21,6 @@
 - [Regulatory Compliance](#regulatory-compliance)
 - [Future Roadmap](#future-roadmap)
 - [Team](#team)
-- [References](#references)
 
 ---
 
